@@ -1,5 +1,5 @@
 
-//@ts-check
+
 //Operators in JS
 console.log("Arithmatic Operator")
 let a=10;
@@ -30,7 +30,7 @@ console.log("Comparison Operator")
 let no1=25;
 let no2="25";
 
-console.log("no1 == no2", no1 == no2)
+console.log("no1 == no2", no1 == no2);
 console.log("no1 === no2", no1 === no2)
 
 console.log("no1 != no2", no1 != no2)
