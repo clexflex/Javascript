@@ -1,5 +1,4 @@
 
-
 //Operators in JS
 console.log("Arithmatic Operator")
 let a=10;
